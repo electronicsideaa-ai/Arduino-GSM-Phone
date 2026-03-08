@@ -16,6 +16,10 @@ Use a stable **4V power supply capable of at least 2A peak current**.
 Code files are provided for **learning purposes**.  
 If you use or modify this code, please **give credit to the channel**.
 
+## Project Video
+
+[![DIY Arduino 2G Mobile Phone](https://img.youtube.com/vi/v2U4mtbE_0Q/0.jpg)](https://youtu.be/v2U4mtbE_0Q)
+
 ## 🎥 Full Video
 https://youtu.be/v2U4mtbE_0Q?si=SHkOMxckTvtnDkQl
 
