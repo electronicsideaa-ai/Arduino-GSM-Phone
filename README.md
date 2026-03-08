@@ -1,6 +1,6 @@
 # DIY GSM Phone using Arduino Nano + SIM800L
 ⭐ Watch the full build tutorial on YouTube before using the code.
-![DIY GSM Phone](DIY_GSM_MOBILE.png)
+![DIY GSM Phone](DIY_GSM_MOBILE.jpg)
 This project shows how to build a simple GSM mobile phone using Arduino Nano and SIM800L module.
 
 ## Features
